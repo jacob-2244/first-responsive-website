@@ -10,7 +10,7 @@ pipeline {
                     doGenerateSubmoduleConfigurations: false,
                     extensions: [],
                     userRemoteConfigs: [[
-                        url: 'https://github.com/jacob-2244/git_with_jenkins.git'
+                        url: 'https://github.com/jacob-2244/first-responsive-website.git'
                     ]]
                 ])
             }
